@@ -1,6 +1,6 @@
 - 👋 Hi, I’m clean2begin
 - 🎓 Working on Master's degree at CQU
-- 👀 Interested in reading and writing
+- 👀 Studying recommendation system
 - 🌱 Currently learning machine learning and probability
 
 <!---
