@@ -1,7 +1,7 @@
 - 👋 Hi, I’m clean2begin
 - 🎓 Working on Master's degree at CQU
-- 👀 Studying recommendation system
-- 🌱 Currently learning machine learning and probability
+- 👀 Studying knowledge graph
+- 🌱 Currently learning NLP
 
 <!---
 clean2begin/clean2begin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
